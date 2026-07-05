@@ -18,7 +18,7 @@ A modern and responsive business website built using **React.js**. This project 
 ## 🛠 Tech Stack
 
 - React.js
-- JavaScript (ES6+)
+- JavaScript
 - HTML5
 - CSS3
 - Node.js
@@ -127,11 +127,6 @@ git push origin feature-name
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Developer
 
