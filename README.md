@@ -1,4 +1,4 @@
-# 🚀 Go-Business
+# Go-Business
 
 A modern and responsive business website built using **React.js**. This project provides a clean user interface and serves as a foundation for business websites, startups, and company portfolios.
 
