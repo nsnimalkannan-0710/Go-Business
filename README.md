@@ -84,11 +84,6 @@ The optimized production files will be generated inside the **build** folder.
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your application here after completing the project.
-
----
 
 ## 🎯 Future Enhancements
 
